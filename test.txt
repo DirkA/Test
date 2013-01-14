@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Welcome 3
+=======
+Welcome 2
+>>>>>>> origin/Alpha-version
 =======
 Welcome 2
 >>>>>>> origin/Alpha-version
